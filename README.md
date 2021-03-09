@@ -115,8 +115,6 @@ the picture below.
 
 ![Stopwords](/resources/02.png)
 
-Source: https://www.nltk.org/data.html
-
 ## NLTK WordNet
 
 The steps to download the **_wordnet_** data is similar then [NLTK](#nltk). Follow the instructions below.
@@ -125,5 +123,3 @@ Go to the tab _**All Pakages**_ select the packages **_wordnet_**, and press the
 picture below.
 
 ![WordNet](/resources/03.png)
-
-Source: https://www.nltk.org/data.html
