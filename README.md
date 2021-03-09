@@ -39,6 +39,8 @@ Convert the raw text into a list of words that are clean text (this is a very im
     1. Stopwords Removal
     1. Stemming
     1. Lemmatization
+    
+Some definitions:
 
 - Tokenization - Convert a sentence into a single words.
 - Stopwords Removal - Remove words which are present in the sentence and make no difference to the analysis.
