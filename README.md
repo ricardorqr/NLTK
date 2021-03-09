@@ -10,9 +10,9 @@ This is a Sentiment Analysis project using the library NLTK in Python.
 1. [Libraries](#libraries)
     1. [Scikit-learn](#scikit-learn)
     1. [NLTK](#nltk)
-    1. [NLTK Data](#nltk data)
+    1. [NLTK Data](#nltk-data)
     1. [NLTK Stopwords Corpus](#nltk-stopwords-corpus)
-    1. [NLTK WordNet](#nltk wordnet)
+    1. [NLTK WordNet](#nltk-wordnet)
     
 # NLTK
 
