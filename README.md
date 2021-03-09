@@ -26,7 +26,7 @@ A pipeline is just a way to design a program where the output of one step is the
 1. Text Document (begin)
 1. [Data Cleaning](#Data-Cleaning)
 1. [Vectorization](#Vectorization)
-1. Perform Classification (end)
+1. [Perform Classification (end)](#Perform-Classification)
 
 ## Data Cleaning
 
@@ -34,27 +34,19 @@ Convert the raw text into a list of words that are clean text (this is a very im
 
 1. Data Cleaning (pre-processing)
     1. Convert to Lower Case
-    1. [Tokenization](#Tokenization)
+    1. Tokenization
     1. Remove Punctuation and Special Characters
-    1. [Stopwords Removal](#Stopwords-Removal)
-    1. [Stemming](#Stemming)
-    1. [Lemmatization](#Lemmatization)
+    1. Stopwords Removal
+    1. Stemming
+    1. Lemmatization
 
-### Tokenization
+- Tokenization - Convert a sentence into a single words.
 
-Convert a sentence into a single words.
+- Stopwords Removal - Remove words which are present in the sentence and make no difference to the analysis.
 
-### Stopwords Removal
+- Stemming - Reduce the word to the base form. Ex.: Reading -> read.
 
-Remove words which are present in the sentence and make no difference to the analysis.
-
-### Stemming
-
-Reduce the word to the base form. Ex.: Reading -> read.
-
-### Lemmatization
-
-Process of grouping together the different inflected forms of a word then they can be analysed as a single item.
+- Lemmatization - Process of grouping together the different inflected forms of a word then they can be analysed as a single item.
 
 ## Vectorization
 
