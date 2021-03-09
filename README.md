@@ -24,7 +24,7 @@ In addition, Natural Language Toolkit (NLTK) is a leading platform for building 
 A pipeline is just a way to design a program where the output of one step is the input of the next step.
 
 1. Text Document (begin)
-1. [Data Cleaning](##Data Cleaning)
+1. [Data Cleaning](#Data Cleaning)
 1. [Vectorization](#Vectorization)
 1. Perform Classification (end)
 
