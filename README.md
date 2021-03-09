@@ -4,14 +4,14 @@ This is a Sentiment Analysis project using the library NLTK in Python.
 
 1. [NLTK](#NLTK)
 1. [Pipeline](#pipeline)
-    1. [Data Cleaning](#Data Cleaning)
+    1. [Data Cleaning](#Data-Cleaning)
     1. [Vectorization](#Vectorization)
-    1. [Perform Classification](#Perform Classification)
+    1. [Perform Classification](#Perform-Classification)
 1. [Libraries](#libraries)
     1. [Scikit-learn](#scikit-learn)
     1. [NLTK](#nltk)
     1. [NLTK Data](#nltk data)
-    1. [NLTK Stopwords Corpus](#nltk stopwords corpus)
+    1. [NLTK Stopwords Corpus](#nltk-stopwords-corpus)
     1. [NLTK WordNet](#nltk wordnet)
     
 # NLTK
@@ -24,7 +24,7 @@ In addition, Natural Language Toolkit (NLTK) is a leading platform for building 
 A pipeline is just a way to design a program where the output of one step is the input of the next step.
 
 1. Text Document (begin)
-1. [Data Cleaning](#Data Cleaning)
+1. [Data Cleaning](#Data-Cleaning)
 1. [Vectorization](#Vectorization)
 1. Perform Classification (end)
 
@@ -36,7 +36,7 @@ Convert the raw text into a list of words that are clean text (this is a very im
     1. Convert to Lower Case
     1. [Tokenization](#Tokenization)
     1. Remove Punctuation and Special Characters
-    1. [Stopwords Removal](#Stopwords Removal)
+    1. [Stopwords Removal](#Stopwords-Removal)
     1. [Stemming](#Stemming)
     1. [Lemmatization](#Lemmatization)
 
@@ -70,7 +70,7 @@ Process of assigning tags or categories to the text according to its content.
 
 Run the Python interpreter and type the command:
 
-```% pip install scikit-learn```
+`% pip install scikit-learn`
 
 Source: https://scikit-learn.org/stable/index.html
 
@@ -78,7 +78,7 @@ Source: https://scikit-learn.org/stable/index.html
 
 Run the Python interpreter and type the command:
 
-```% pip install nltk```
+`% pip install nltk`
 
 Source: https://scikit-learn.org/stable/index.html
 
@@ -95,9 +95,9 @@ Run the Python interpreter and type the commands:
 
 A new window should open, showing the NLTK Downloader. Click on the File menu and select Change Download Directory. For central installation, set this to:
 
-- ```C:\nltk_data``` (Windows)
-- ```/usr/local/share/nltk_data``` (Mac)
-- ```/usr/share/nltk_data``` (Unix)
+- `C:\nltk_data` (Windows)
+- `/usr/local/share/nltk_data` (Mac)
+- `/usr/share/nltk_data` (Unix)
 
 Next, go to the tab _**All Pakages**_ select the packages **_punky_**, and press the buttons **_Download_**. Leave like
 the picture below.
