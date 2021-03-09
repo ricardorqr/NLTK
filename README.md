@@ -41,11 +41,8 @@ Convert the raw text into a list of words that are clean text (this is a very im
     1. Lemmatization
 
 - Tokenization - Convert a sentence into a single words.
-
 - Stopwords Removal - Remove words which are present in the sentence and make no difference to the analysis.
-
 - Stemming - Reduce the word to the base form. Ex.: Reading -> read.
-
 - Lemmatization - Process of grouping together the different inflected forms of a word then they can be analysed as a single item.
 
 ## Vectorization
